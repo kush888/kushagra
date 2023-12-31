@@ -2,8 +2,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
-
   background: linear-gradient(rgb(0, 249, 236), rgb(71, 150, 229));
 }
 
